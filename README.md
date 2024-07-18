@@ -1,6 +1,5 @@
 Sure! Here's a sample `README.md` file that you can use for your GitHub repository:
 
-```markdown
 # Fraud Detection Project
 
 This project aims to detect fraudulent transactions in a dataset using machine learning techniques. The data is highly unbalanced, so we handle it by downsampling the non-fraudulent transactions. We use Logistic Regression to classify the transactions and evaluate the model's performance.
